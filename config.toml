@@ -1,4 +1,8 @@
-baseURL = "https://elated-agnesi-bd66b7.netlify.app/"
+baseURL = "https://golang-kindergarten.net/"
 languageCode = "en-us"
 title = "Golang Kindergarten"
 theme = "basic"
+
+[params]
+    author = "Boris Mühmer"
+    description = "Various things about Golang..."
