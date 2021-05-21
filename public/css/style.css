@@ -1,0 +1,25 @@
+/* === css/style.css === */
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+nav, footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+}
+
+nav > a {
+    flex: 1;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+/* === End Of File === */
